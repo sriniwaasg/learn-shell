@@ -1,9 +1,4 @@
-# learn-shell
+#learning shell 
 
-hi this shell
+print
 
-
-here the topics
-print 
-shell
-hi this is sriniwas
